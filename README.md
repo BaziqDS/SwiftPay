@@ -1,5 +1,9 @@
 # SwiftPay
 
+## Project Timeline
+- 📅 **Originally developed and completed:** July 2024 (Course Project, NED University) 
+- 📤 **Uploaded to GitHub:** December 2025
+
 A comprehensive database management system for a fintech payment application, developed as a course project for Database Management Systems (DBMS).
 
 ## Overview
